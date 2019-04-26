@@ -1,3 +1,5 @@
+#ignore below files
+
 *.log
 *.php
 *.jpg
